@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: bea8d1ff4f4889e4d8e722ecda5698f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1414
+        width: 452
+        height: 630
+      alignment: 9
+      pivot: {x: 0.6174572, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b154ce64a354f1148949ed8ab65cd1b7
+      internalID: -1813918322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1390
+        width: 400
+        height: 652
+      alignment: 9
+      pivot: {x: 0.71177673, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56487a64b36c8d84889472fa394263ad
+      internalID: 688793601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1394
+        width: 388
+        height: 648
+      alignment: 9
+      pivot: {x: 0.7231247, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ea1b1608ce1745b569fd5ae3fdcbf
+      internalID: -1333644430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1414
+        width: 464
+        height: 630
+      alignment: 9
+      pivot: {x: 0.63040453, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b2abb157a0e0489b1142ee9836f03
+      internalID: -245191577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 770
+        width: 526
+        height: 614
+      alignment: 9
+      pivot: {x: 0.5973362, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef57d1beefffc34ca6d7ffe804ccd00
+      internalID: 903865076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 756
+        width: 566
+        height: 630
+      alignment: 9
+      pivot: {x: 0.55920833, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee72b04955e9de4eaaa2f2f7a1c02f3
+      internalID: 347766135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 742
+        width: 540
+        height: 642
+      alignment: 9
+      pivot: {x: 0.58619314, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dbb6245e1533645992f5e2e9ce6643
+      internalID: 707582170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 450
+        height: 656
+      alignment: 9
+      pivot: {x: 0.6634225, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97706dc49af304438489a03e93192a6
+      internalID: 1141612481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 90
+        width: 390
+        height: 644
+      alignment: 9
+      pivot: {x: 0.72675455, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77388b8e0f7191849ad3be3793f6477a
+      internalID: 785296935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandman_mc_run_sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 94
+        width: 410
+        height: 638
+      alignment: 9
+      pivot: {x: 0.66219276, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af49f535cbee09b4fa8ff3a3bb01f13d
+      internalID: -1147568002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sandman_mc_run_sheet 1_0: -1813918322
+      sandman_mc_run_sheet 1_1: 688793601
+      sandman_mc_run_sheet 1_2: -1333644430
+      sandman_mc_run_sheet 1_3: -245191577
+      sandman_mc_run_sheet 1_4: 903865076
+      sandman_mc_run_sheet 1_5: 347766135
+      sandman_mc_run_sheet 1_6: 707582170
+      sandman_mc_run_sheet 1_7: 1141612481
+      sandman_mc_run_sheet 1_8: 785296935
+      sandman_mc_run_sheet 1_9: -1147568002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
